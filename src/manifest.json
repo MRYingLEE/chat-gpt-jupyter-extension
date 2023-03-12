@@ -34,7 +34,7 @@
         "https://*.mybinder.ovh/*", 
         "http://*.mybinder.ovh/*", 
         "https://localhost/*", 
-        "http://localhost/*"
+        "http://localhost/*",
         "https://colab.research.google.com/*",
         "http://colab.research.google.com/*"
       ],
