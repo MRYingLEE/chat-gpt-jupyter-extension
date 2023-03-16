@@ -22,7 +22,9 @@
       "https://localhost/*", 
       "http://localhost/*",
       "https://colab.research.google.com/*",
-      "http://colab.research.google.com/*"      
+      "http://colab.research.google.com/*",
+      "http://localhost:8888/*",
+      "https://localhost:8888/*"
     ],
     "resources": ["content-script/inject.js"]
   }],
@@ -36,7 +38,9 @@
         "https://localhost/*", 
         "http://localhost/*",
         "https://colab.research.google.com/*",
-        "http://colab.research.google.com/*"
+        "http://colab.research.google.com/*",
+        "http://localhost:8888/*",
+        "https://localhost:8888/*"
       ],
       "js": ["content-script/index.js"]
     }
